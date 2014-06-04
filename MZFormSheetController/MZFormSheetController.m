@@ -47,12 +47,12 @@ NSString * const MZFormSheetWillDismissNotification = @"MZFormSheetWillDismissNo
 
 CGFloat const MZFormSheetControllerDefaultPortraitTopInset = 66.0;
 CGFloat const MZFormSheetControllerDefaultLandscapeTopInset = 6.0;
-CGFloat const MZFormSheetControllerDefaultWidth = 284.0;
-CGFloat const MZFormSheetControllerDefaultHeight = 284.0;
+CGFloat const MZFormSheetControllerDefaultWidth = 320.0;
+CGFloat const MZFormSheetControllerDefaultHeight = 324.0;
 
 CGFloat const MZFormSheetControllerDefaultAnimationDuration = 0.3;
 
-CGFloat const MZFormSheetPresentedControllerDefaultCornerRadius = 6.0;
+CGFloat const MZFormSheetPresentedControllerDefaultCornerRadius = 0.0;
 CGFloat const MZFormSheetPresentedControllerDefaultShadowRadius = 6.0;
 CGFloat const MZFormSheetPresentedControllerDefaultShadowOpacity = 0.5;
 
